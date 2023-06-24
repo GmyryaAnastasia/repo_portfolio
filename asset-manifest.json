@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/repo_portfolio/static/css/main.31d6cfe0.css",
+    "main.js": "/repo_portfolio/static/js/main.1cfee04c.js",
+    "static/js/787.25eaef86.chunk.js": "/repo_portfolio/static/js/787.25eaef86.chunk.js",
+    "static/media/photo_my.webp": "/repo_portfolio/static/media/photo_my.19800f1488f6761c1c5a.webp",
+    "static/media/proj-1.webp": "/repo_portfolio/static/media/proj-1.bfe30930b3ce1c408097.webp",
+    "static/media/proj-6.webp": "/repo_portfolio/static/media/proj-6.b35c5b3bf41a920ffe9f.webp",
+    "static/media/prog-3.webp": "/repo_portfolio/static/media/prog-3.503705a22abf2cf01e39.webp",
+    "static/media/proj-2.webp": "/repo_portfolio/static/media/proj-2.c709d88a683f8558098a.webp",
+    "static/media/proj-5.webp": "/repo_portfolio/static/media/proj-5.48d47a211aed6ea04c94.webp",
+    "static/media/proj-4.webp": "/repo_portfolio/static/media/proj-4.f62203be0757784e131a.webp",
+    "static/media/iconsSprite.svg": "/repo_portfolio/static/media/iconsSprite.e7b452594430305b7648f695ba4ef6dc.svg",
+    "index.html": "/repo_portfolio/index.html",
+    "main.1cfee04c.js.map": "/repo_portfolio/static/js/main.1cfee04c.js.map",
+    "787.25eaef86.chunk.js.map": "/repo_portfolio/static/js/787.25eaef86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.1cfee04c.js"
+  ]
+}
